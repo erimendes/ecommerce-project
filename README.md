@@ -7,6 +7,9 @@ create-next-app@14.2.4
 Ok to proceed?(y)
 What is your project named?
 
+## GitHub
+https://github.com/rinkuv37
+
 ## Getting Started
 
 First, run the development server:
